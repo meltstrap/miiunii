@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A social networking system inspired by Nintendo's Miiverse made on Django.
+This is a social networking system inspired by Nintendo's Miiverse and made on Django and Python.
 
 ## Who is doing this?
 
