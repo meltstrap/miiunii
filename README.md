@@ -30,7 +30,9 @@ Now that's a good question! I'll answer it for you.
 - Image autoloading
 - Advanced drawing
 - User-made communities
+
 And of course
+
 - The basic functionality of Miiverse
 
 I'll add more features soon, but for now that's all I got.
